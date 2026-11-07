@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "automacao-vendas"
+version = "1.0.0"
+description = "Toolkit Python para automacao de arquivos e analise de dados de vendas"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Elias Campos" }]
+dependencies = [
+    "pandas>=2.2,<4",
+    "openpyxl>=3.1,<4",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8,<10",
+    "ruff>=0.9",
+]
+
+[project.scripts]
+toolkit = "toolkit.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["toolkit*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

@@ -1,0 +1,692 @@
+data,pedido_id,produto,categoria,canal,quantidade,preco_unitario,estado
+2025-12-06,PED-0056,Hub USB-C,Acessorios,Site,2,189.90,BA
+2025-02-24,PED-0340,SSD 1TB,Componentes,Site,2,549.90,SP
+2025-01-16,PED-0168,Cadeira Ergonomica,Escritorio,Site,1,1499.00,MG
+2025-12-17,PED-0192,Suporte para Notebook,Acessorios,Site,1,119.90,PR
+2025-09-22,PED-0022,Monitor 27 polegadas,Monitores,WhatsApp,1,1899.00,SP
+2025-07-29,PED-0336,Suporte para Notebook,Acessorios,WhatsApp,2,119.90,RJ
+2025-12-23,PED-0064,Mouse Sem Fio,Perifericos,WhatsApp,1,129.90,CE
+2025-03-24,PED-0044,Notebook Pro 14,Informatica,WhatsApp,3,3899.90,PR
+2025-03-03,PED-0174,Hub USB-C,Acessorios,Site,1,189.90,RS
+2025-02-28,PED-0117,Headset USB,Audio,WhatsApp,3,249.90,SP
+2025-02-28,PED-0117,Teclado Mecanico,Perifericos,WhatsApp,1,349.90,SP
+2025-07-01,PED-0027,Notebook Pro 14,Informatica,WhatsApp,4,3899.90,PR
+2025-02-03,PED-0156,Memoria RAM 16GB,Componentes,Marketplace,1,329.90,BA
+2025-06-14,PED-0218,Headset USB,Audio,Site,2,249.90,SP
+2025-10-14,PED-0299,Webcam Full HD,Perifericos,Marketplace,1,279.90,RS
+2025-12-09,PED-0037,Cadeira Ergonomica,Escritorio,Loja Fisica,2,1499.00,MG
+2025-05-03,PED-0264,SSD 1TB,Componentes,Marketplace,1,549.90,CE
+2025-05-02,PED-0196,Monitor 27 polegadas,Monitores,WhatsApp,4,1899.00,BA
+2025-05-05,PED-0178,Cadeira Ergonomica,Escritorio,WhatsApp,1,1499.00,PR
+2025-01-13,PED-0048,Monitor 27 polegadas,Monitores,Marketplace,2,1899.00,PE
+2025-05-11,PED-0282,Mouse Sem Fio,Perifericos,Site,1,129.90,MG
+2025-10-07,PED-0335,Suporte para Notebook,Acessorios,Marketplace,1,119.90,CE
+2025-10-27,PED-0110,Mesa Digitalizadora,Perifericos,WhatsApp,1,459.00,RS
+2025-12-06,PED-0056,Headset USB,Audio,Site,1,249.90,BA
+2025-10-14,PED-0328,Teclado Mecanico,Perifericos,Marketplace,1,349.90,RJ
+2025-03-18,PED-0190,Hub USB-C,Acessorios,Loja Fisica,1,189.90,SP
+2025-11-11,PED-0220,Notebook Pro 14,Informatica,WhatsApp,1,3899.90,BA
+2025-10-19,PED-0305,Suporte para Notebook,Acessorios,Marketplace,3,119.90,RS
+2025-01-25,PED-0215,Webcam Full HD,Perifericos,Loja Fisica,1,279.90,BA
+2025-09-06,PED-0193,Teclado Mecanico,Perifericos,Marketplace,1,349.90,MG
+2025-07-19,PED-0320,Teclado Mecanico,Perifericos,Loja Fisica,2,349.90,PR
+2025-01-29,PED-0233,Teclado Mecanico,Perifericos,Site,1,349.90,RJ
+2025-07-23,PED-0126,Webcam Full HD,Perifericos,Site,1,279.90,PE
+2025-10-03,PED-0013,Monitor 27 polegadas,Monitores,Loja Fisica,1,1899.00,PR
+2025-04-04,PED-0075,Monitor 27 polegadas,Monitores,Site,1,1899.00,BA
+2025-10-14,PED-0065,Cadeira Ergonomica,Escritorio,Loja Fisica,3,1499.00,RS
+2025-09-24,PED-0055,Hub USB-C,Acessorios,Marketplace,2,189.90,PE
+2025-05-03,PED-0264,Hub USB-C,Acessorios,Marketplace,2,189.90,CE
+2025-10-01,PED-0074,Notebook Pro 14,Informatica,Site,3,3899.90,PR
+2025-11-02,PED-0246,Cadeira Ergonomica,Escritorio,WhatsApp,1,1499.00,BA
+2025-10-14,PED-0328,Cadeira Ergonomica,Escritorio,Marketplace,1,1499.00,RJ
+2025-05-21,PED-0293,Hub USB-C,Acessorios,Site,1,189.90,RJ
+2025-02-03,PED-0156,SSD 1TB,Componentes,Marketplace,2,549.90,BA
+2025-10-17,PED-0149,Monitor 27 polegadas,Monitores,Marketplace,3,1899.00,SP
+2025-05-11,PED-0282,Cadeira Ergonomica,Escritorio,Site,4,1499.00,MG
+2025-09-04,PED-0140,Mesa Digitalizadora,Perifericos,Loja Fisica,4,459.00,PE
+2025-09-10,PED-0144,SSD 1TB,Componentes,Site,1,549.90,SP
+2025-02-17,PED-0060,Monitor 27 polegadas,Monitores,Marketplace,1,1899.00,BA
+2025-05-02,PED-0196,SSD 1TB,Componentes,WhatsApp,2,549.90,BA
+2025-09-01,PED-0066,Hub USB-C,Acessorios,WhatsApp,1,189.90,BA
+2025-09-26,PED-0187,Cadeira Ergonomica,Escritorio,Marketplace,1,1499.00,PE
+2025-12-10,PED-0294,Suporte para Notebook,Acessorios,WhatsApp,1,119.90,PE
+2025-11-02,PED-0246,Mouse Sem Fio,Perifericos,WhatsApp,1,129.90,BA
+2025-08-19,PED-0186,Teclado Mecanico,Perifericos,Site,4,349.90,PE
+2025-05-04,PED-0245,Notebook Pro 14,Informatica,Marketplace,1,3899.90,PE
+2025-06-04,PED-0081,Cadeira Ergonomica,Escritorio,Site,1,1499.00,CE
+2025-06-29,PED-0077,Monitor 27 polegadas,Monitores,Marketplace,1,1899.00,SP
+2025-03-03,PED-0174,Cadeira Ergonomica,Escritorio,Site,1,1499.00,RS
+2025-07-07,PED-0224,Headset USB,Audio,WhatsApp,1,249.90,PE
+2025-11-03,PED-0290,Mesa Digitalizadora,Perifericos,Site,3,459.00,MG
+2025-01-29,PED-0291,Suporte para Notebook,Acessorios,Marketplace,2,119.90,BA
+2025-10-14,PED-0328,Hub USB-C,Acessorios,Marketplace,1,189.90,RJ
+2025-11-24,PED-9001,,Audio,Site,1,249.90,CE
+2025-09-20,PED-0200,Monitor 27 polegadas,Monitores,Marketplace,3,1899.00,PR
+2025-08-15,PED-0059,Teclado Mecanico,Perifericos,Marketplace,1,349.90,RS
+2025-12-14,PED-0189,Suporte para Notebook,Acessorios,WhatsApp,4,119.90,BA
+2025-11-18,PED-0007,Monitor 27 polegadas,Monitores,Loja Fisica,3,1899.00,MG
+2025-04-04,PED-0087,Headset USB,Audio,WhatsApp,1,249.90,MG
+2025-09-02,PED-0097,Mesa Digitalizadora,Perifericos,Site,2,459.00,SP
+2025-03-06,PED-0078,Mesa Digitalizadora,Perifericos,WhatsApp,1,459.00,SP
+2025-09-03,PED-0260,Mouse Sem Fio,Perifericos,Loja Fisica,2,129.90,BA
+2025-11-24,PED-0010,Monitor 27 polegadas,Monitores,Marketplace,3,1899.00,PE
+2025-08-27,PED-0133,Mesa Digitalizadora,Perifericos,Loja Fisica,3,459.00,RJ
+2025-03-18,PED-0190,Teclado Mecanico,Perifericos,Loja Fisica,2,349.90,SP
+2025-10-17,PED-0149,Memoria RAM 16GB,Componentes,Marketplace,1,329.90,SP
+2025-02-25,PED-0049,Monitor 27 polegadas,Monitores,WhatsApp,3,1899.00,CE
+2025-12-21,PED-0090,Memoria RAM 16GB,Componentes,Marketplace,2,329.90,BA
+2025-08-30,PED-0204,Notebook Pro 14,Informatica,Marketplace,1,3899.90,RS
+2025-12-17,PED-0212,Suporte para Notebook,Acessorios,WhatsApp,3,119.90,RS
+2025-10-23,PED-0292,Teclado Mecanico,Perifericos,Loja Fisica,1,349.90,MG
+2025-05-24,PED-0146,Mesa Digitalizadora,Perifericos,Site,1,459.00,PE
+2025-12-25,PED-0107,Hub USB-C,Acessorios,WhatsApp,1,189.90,BA
+2025-01-03,PED-0063,Teclado Mecanico,Perifericos,Site,3,349.90,PR
+2025-08-16,PED-0325,Teclado Mecanico,Perifericos,Loja Fisica,1,349.90,BA
+2025-04-12,PED-0250,Notebook Pro 14,Informatica,WhatsApp,1,3899.90,CE
+2025-06-16,PED-0169,Teclado Mecanico,Perifericos,Site,2,349.90,CE
+2025-05-02,PED-0135,Suporte para Notebook,Acessorios,WhatsApp,2,119.90,PE
+2025-02-09,PED-0179,Hub USB-C,Acessorios,Site,1,189.90,MG
+2025-05-31,PED-0130,Teclado Mecanico,Perifericos,Loja Fisica,1,349.90,PE
+2025-12-11,PED-0142,Webcam Full HD,Perifericos,Loja Fisica,1,279.90,PR
+2025-12-02,PED-0181,Memoria RAM 16GB,Componentes,Site,3,329.90,RJ
+2025-07-01,PED-0027,Suporte para Notebook,Acessorios,WhatsApp,2,119.90,PR
+2025-10-01,PED-0074,Hub USB-C,Acessorios,Site,1,189.90,PR
+2025-02-19,PED-0161,Notebook Pro 14,Informatica,Loja Fisica,2,3899.90,RJ
+2025-03-03,PED-0036,Memoria RAM 16GB,Componentes,Marketplace,1,329.90,CE
+2025-12-10,PED-0294,Teclado Mecanico,Perifericos,WhatsApp,1,349.90,PE
+31/02/2025,PED-9003,Hub USB-C,Acessorios,Site,2,189.90,CE
+2025-06-14,PED-0266,Hub USB-C,Acessorios,Loja Fisica,2,189.90,CE
+2025-05-31,PED-0130,Monitor 27 polegadas,Monitores,Loja Fisica,2,1899.00,PE
+2025-06-10,PED-0256,Monitor 27 polegadas,Monitores,WhatsApp,2,1899.00,RJ
+2025-11-06,PED-0006,Mouse Sem Fio,Perifericos,Loja Fisica,2,129.90,CE
+2025-08-15,PED-0280,Memoria RAM 16GB,Componentes,Site,3,329.90,MG
+2025-11-06,PED-0006,Mesa Digitalizadora,Perifericos,Loja Fisica,4,459.00,CE
+2025-10-15,PED-0225,Mesa Digitalizadora,Perifericos,Site,2,459.00,BA
+2025-11-11,PED-0220,Cadeira Ergonomica,Escritorio,WhatsApp,2,1499.00,BA
+2025-09-17,PED-0209,Notebook Pro 14,Informatica,Site,1,3899.90,PR
+2025-08-23,PED-0271,Suporte para Notebook,Acessorios,Loja Fisica,1,119.90,RJ
+2025-01-22,PED-0185,Memoria RAM 16GB,Componentes,WhatsApp,1,329.90,MG
+2025-08-30,PED-0118,Monitor 27 polegadas,Monitores,Marketplace,3,1899.00,RS
+2025-03-21,PED-0288,Cadeira Ergonomica,Escritorio,Loja Fisica,3,1499.00,MG
+2025-03-29,PED-0177,Cadeira Ergonomica,Escritorio,WhatsApp,3,1499.00,PE
+2025-04-30,PED-0003,SSD 1TB,Componentes,Site,2,549.90,MG
+2025-04-08,PED-0137,Hub USB-C,Acessorios,Loja Fisica,1,189.90,RJ
+2025-06-19,PED-0124,SSD 1TB,Componentes,Site,3,549.90,RS
+2025-03-24,PED-0044,Mouse Sem Fio,Perifericos,WhatsApp,2,129.90,PR
+2025-12-10,PED-0009,Hub USB-C,Acessorios,Loja Fisica,2,189.90,SP
+2025-07-26,PED-0113,Notebook Pro 14,Informatica,Site,1,3899.90,RS
+2025-12-05,PED-0323,Headset USB,Audio,WhatsApp,1,249.90,SP
+2025-10-20,PED-0026,Cadeira Ergonomica,Escritorio,WhatsApp,1,1499.00,MG
+2025-08-02,PED-0254,Mesa Digitalizadora,Perifericos,Loja Fisica,2,459.00,CE
+2025-02-21,PED-0265,Teclado Mecanico,Perifericos,Marketplace,1,349.90,CE
+2025-02-05,PED-0283,Teclado Mecanico,Perifericos,WhatsApp,2,349.90,CE
+2025-11-25,PED-0237,Cadeira Ergonomica,Escritorio,Loja Fisica,1,1499.00,MG
+2025-08-09,PED-0326,Notebook Pro 14,Informatica,WhatsApp,1,3899.90,PR
+2025-11-27,PED-0222,Memoria RAM 16GB,Componentes,Loja Fisica,2,329.90,PE
+2025-09-17,PED-0209,Hub USB-C,Acessorios,Site,1,189.90,PR
+2025-10-07,PED-0335,Mesa Digitalizadora,Perifericos,Marketplace,2,459.00,CE
+2025-07-01,PED-0339,Hub USB-C,Acessorios,Marketplace,4,189.90,CE
+2025-05-28,PED-0115,Notebook Pro 14,Informatica,WhatsApp,4,3899.90,RS
+2025-09-11,PED-0112,Mouse Sem Fio,Perifericos,Loja Fisica,4,129.90,PR
+2025-10-01,PED-0074,Memoria RAM 16GB,Componentes,Site,1,329.90,PR
+2025-09-23,PED-0217,Cadeira Ergonomica,Escritorio,Loja Fisica,2,1499.00,SP
+2025-02-20,PED-0028,Monitor 27 polegadas,Monitores,Site,1,1899.00,PR
+2025-07-22,PED-0261,Headset USB,Audio,Loja Fisica,1,249.90,RJ
+2025-04-08,PED-0137,Mouse Sem Fio,Perifericos,Loja Fisica,1,129.90,RJ
+2025-11-06,PED-0236,Mouse Sem Fio,Perifericos,Loja Fisica,1,129.90,CE
+2025-03-19,PED-0123,SSD 1TB,Componentes,WhatsApp,4,549.90,CE
+2025-06-20,PED-0331,Cadeira Ergonomica,Escritorio,WhatsApp,3,1499.00,PE
+2025-06-14,PED-0218,Hub USB-C,Acessorios,Site,1,189.90,SP
+2025-05-24,PED-0334,Memoria RAM 16GB,Componentes,WhatsApp,1,329.90,PE
+2025-06-15,PED-0108,Monitor 27 polegadas,Monitores,Loja Fisica,4,1899.00,CE
+2025-02-24,PED-0340,Monitor 27 polegadas,Monitores,Site,2,1899.00,SP
+2025-08-15,PED-0280,Mesa Digitalizadora,Perifericos,Site,1,459.00,MG
+2025-12-09,PED-0175,Notebook Pro 14,Informatica,Loja Fisica,1,3899.90,SP
+2025-01-08,PED-0300,Monitor 27 polegadas,Monitores,Marketplace,1,1899.00,MG
+2025-08-02,PED-0254,Memoria RAM 16GB,Componentes,Loja Fisica,2,329.90,CE
+2025-08-07,PED-0219,Notebook Pro 14,Informatica,Marketplace,3,3899.90,RS
+2025-10-11,PED-0327,Notebook Pro 14,Informatica,Site,1,3899.90,PE
+2025-07-30,PED-0122,Hub USB-C,Acessorios,Site,2,189.90,PE
+2025-12-27,PED-0276,Memoria RAM 16GB,Componentes,Loja Fisica,1,329.90,SP
+2025-11-25,PED-0306,Suporte para Notebook,Acessorios,WhatsApp,2,119.90,RS
+2025-06-11,PED-0011,Monitor 27 polegadas,Monitores,WhatsApp,3,1899.00,BA
+2025-10-06,PED-0040,Headset USB,Audio,Loja Fisica,1,249.90,CE
+2025-11-25,PED-0237,Notebook Pro 14,Informatica,Loja Fisica,1,3899.90,MG
+2025-03-07,PED-0249,Webcam Full HD,Perifericos,Site,3,279.90,PR
+2025-03-10,PED-0296,Webcam Full HD,Perifericos,WhatsApp,3,279.90,MG
+2025-02-21,PED-0008,Webcam Full HD,Perifericos,WhatsApp,1,279.90,BA
+2025-02-25,PED-0049,Suporte para Notebook,Acessorios,WhatsApp,1,119.90,CE
+2025-09-03,PED-0231,Mouse Sem Fio,Perifericos,WhatsApp,2,129.90,PR
+2025-12-05,PED-0285,Teclado Mecanico,Perifericos,Marketplace,4,349.90,PE
+2025-12-09,PED-0086,Mesa Digitalizadora,Perifericos,WhatsApp,3,459.00,PE
+2025-03-27,PED-0329,Headset USB,Audio,WhatsApp,2,249.90,BA
+2025-02-19,PED-0161,Memoria RAM 16GB,Componentes,Loja Fisica,2,329.90,RJ
+2025-08-19,PED-0322,Cadeira Ergonomica,Escritorio,WhatsApp,2,1499.00,MG
+2025-09-13,PED-0114,Headset USB,Audio,WhatsApp,1,249.90,CE
+2025-03-08,PED-0191,Webcam Full HD,Perifericos,Site,3,279.90,BA
+2025-09-02,PED-0097,Mouse Sem Fio,Perifericos,Site,2,129.90,SP
+2025-12-25,PED-0107,Mesa Digitalizadora,Perifericos,WhatsApp,1,459.00,BA
+2025-03-27,PED-0329,Mesa Digitalizadora,Perifericos,WhatsApp,1,459.00,BA
+2025-01-09,PED-0210,Monitor 27 polegadas,Monitores,Loja Fisica,2,1899.00,SP
+2025-10-02,PED-0052,Headset USB,Audio,Loja Fisica,1,249.90,CE
+2025-07-23,PED-0313,Memoria RAM 16GB,Componentes,Site,2,329.90,PE
+2025-10-06,PED-0040,SSD 1TB,Componentes,Loja Fisica,3,549.90,CE
+2025-04-05,PED-0273,Notebook Pro 14,Informatica,Marketplace,1,3899.90,RS
+2025-06-26,PED-0232,Cadeira Ergonomica,Escritorio,Marketplace,1,1499.00,RJ
+2025-10-17,PED-0136,Monitor 27 polegadas,Monitores,Site,3,1899.00,RS
+2025-06-26,PED-0232,Cadeira Ergonomica,Escritorio,Marketplace,1,1499.00,RJ
+2025-10-11,PED-0327,Headset USB,Audio,Site,2,249.90,PE
+2025-05-04,PED-0295,Mesa Digitalizadora,Perifericos,Marketplace,4,459.00,BA
+2025-11-02,PED-0246,Notebook Pro 14,Informatica,WhatsApp,1,3899.90,BA
+2025-11-14,PED-0047,Teclado Mecanico,Perifericos,Marketplace,3,349.90,MG
+2025-01-19,PED-0045,Teclado Mecanico,Perifericos,Loja Fisica,1,349.90,RJ
+2025-11-05,PED-0269,Hub USB-C,Acessorios,Site,1,189.90,PE
+2025-03-03,PED-0092,Suporte para Notebook,Acessorios,Marketplace,1,119.90,MG
+2025-10-09,PED-0030,Notebook Pro 14,Informatica,Site,3,3899.90,CE
+2025-11-05,PED-0269,Mesa Digitalizadora,Perifericos,Site,1,459.00,PE
+2025-11-06,PED-0006,SSD 1TB,Componentes,Loja Fisica,1,549.90,CE
+2025-10-23,PED-0243,Mesa Digitalizadora,Perifericos,Loja Fisica,4,459.00,MG
+2025-03-18,PED-0105,Notebook Pro 14,Informatica,Loja Fisica,1,3899.90,RJ
+2025-07-23,PED-0126,Cadeira Ergonomica,Escritorio,Site,3,1499.00,PE
+2025-02-20,PED-0028,Mouse Sem Fio,Perifericos,Site,1,129.90,PR
+2025-11-14,PED-0132,Teclado Mecanico,Perifericos,Marketplace,2,349.90,RS
+2025-10-09,PED-0091,Hub USB-C,Acessorios,Loja Fisica,1,189.90,PE
+2025-10-01,PED-0267,Teclado Mecanico,Perifericos,Site,4,349.90,RJ
+2025-12-11,PED-0142,Monitor 27 polegadas,Monitores,Loja Fisica,3,1899.00,PR
+2025-08-30,PED-0204,Memoria RAM 16GB,Componentes,Marketplace,3,329.90,RS
+2025-09-06,PED-0031,Teclado Mecanico,Perifericos,WhatsApp,4,349.90,MG
+2025-04-02,PED-0312,Teclado Mecanico,Perifericos,Site,2,349.90,SP
+2025-01-19,PED-0045,Notebook Pro 14,Informatica,Loja Fisica,3,3899.90,RJ
+2025-08-30,PED-0118,Cadeira Ergonomica,Escritorio,Marketplace,1,1499.00,RS
+2025-02-19,PED-0161,SSD 1TB,Componentes,Loja Fisica,1,549.90,RJ
+2025-03-14,PED-0141,Cadeira Ergonomica,Escritorio,Marketplace,1,1499.00,PR
+2025-03-07,PED-0249,SSD 1TB,Componentes,Site,2,549.90,PR
+2025-03-24,PED-0044,Hub USB-C,Acessorios,WhatsApp,1,189.90,PR
+2025-12-23,PED-0064,Monitor 27 polegadas,Monitores,WhatsApp,1,1899.00,CE
+2025-09-03,PED-0155,Hub USB-C,Acessorios,WhatsApp,2,189.90,PR
+2025-07-30,PED-0122,Mesa Digitalizadora,Perifericos,Site,4,459.00,PE
+2025-12-10,PED-0009,Teclado Mecanico,Perifericos,Loja Fisica,1,349.90,SP
+2025-07-08,PED-0184,Hub USB-C,Acessorios,Loja Fisica,2,189.90,SP
+2025-01-15,PED-0073,Teclado Mecanico,Perifericos,WhatsApp,4,349.90,PE
+2025-12-21,PED-0090,Mesa Digitalizadora,Perifericos,Marketplace,4,459.00,BA
+2025-07-22,PED-0261,Notebook Pro 14,Informatica,Loja Fisica,4,3899.90,RJ
+2025-02-21,PED-0008,Hub USB-C,Acessorios,WhatsApp,1,189.90,BA
+2025-08-21,PED-0145,Teclado Mecanico,Perifericos,Loja Fisica,3,349.90,PR
+2025-02-01,PED-0034,Memoria RAM 16GB,Componentes,Loja Fisica,1,329.90,CE
+2025-02-09,PED-0176,Hub USB-C,Acessorios,Loja Fisica,1,189.90,PR
+2025-03-04,PED-0241,Teclado Mecanico,Perifericos,Loja Fisica,1,349.90,RS
+2025-02-24,PED-0041,Memoria RAM 16GB,Componentes,Marketplace,2,329.90,BA
+2025-05-24,PED-0318,Notebook Pro 14,Informatica,Site,2,3899.90,RJ
+2025-09-03,PED-0155,Mesa Digitalizadora,Perifericos,WhatsApp,1,459.00,PR
+2025-01-08,PED-0125,Mesa Digitalizadora,Perifericos,Marketplace,2,459.00,PR
+2025-08-21,PED-0148,Notebook Pro 14,Informatica,Site,4,3899.90,MG
+2025-01-29,PED-0233,Suporte para Notebook,Acessorios,Site,2,119.90,RJ
+2025-12-17,PED-0192,Webcam Full HD,Perifericos,Site,1,279.90,PR
+2025-03-21,PED-0288,Notebook Pro 14,Informatica,Loja Fisica,3,3899.90,MG
+2025-10-23,PED-0292,Hub USB-C,Acessorios,Loja Fisica,1,189.90,MG
+2025-12-08,PED-0275,Cadeira Ergonomica,Escritorio,Site,3,1499.00,RS
+2025-01-21,PED-0046,Monitor 27 polegadas,Monitores,Loja Fisica,1,1899.00,MG
+2025-08-04,PED-0153,Webcam Full HD,Perifericos,Site,1,279.90,SP
+2025-07-04,PED-0230,Mouse Sem Fio,Perifericos,Loja Fisica,2,129.90,RS
+2025-05-02,PED-0152,Headset USB,Audio,Loja Fisica,1,249.90,CE
+2025-03-04,PED-0206,Hub USB-C,Acessorios,Site,1,189.90,MG
+2025-04-30,PED-9005,Hub USB-C,Acessorios,Site,1,-10.00,MG
+2025-12-23,PED-0064,Mesa Digitalizadora,Perifericos,WhatsApp,1,459.00,CE
+2025-10-14,PED-0065,Suporte para Notebook,Acessorios,Loja Fisica,3,119.90,RS
+2025-08-21,PED-0148,Hub USB-C,Acessorios,Site,1,189.90,MG
+2025-07-29,PED-0336,Headset USB,Audio,WhatsApp,2,249.90,RJ
+2025-09-29,PED-0018,Mouse Sem Fio,Perifericos,Site,3,129.90,PE
+2025-11-24,PED-0001,Hub USB-C,Acessorios,Site,2,189.90,CE
+2025-01-26,PED-0170,Hub USB-C,Acessorios,Site,1,189.90,BA
+2025-11-21,PED-0324,Mouse Sem Fio,Perifericos,Marketplace,3,129.90,PR
+2025-12-21,PED-0090,Webcam Full HD,Perifericos,Marketplace,1,279.90,BA
+2025-10-07,PED-0002,Notebook Pro 14,Informatica,Site,1,3899.90,PR
+2025-08-15,PED-0280,Mouse Sem Fio,Perifericos,Site,1,129.90,MG
+2025-12-11,PED-0142,Mouse Sem Fio,Perifericos,Loja Fisica,2,129.90,PR
+2025-10-05,PED-0127,Hub USB-C,Acessorios,Site,2,189.90,SP
+2025-05-07,PED-0330,Teclado Mecanico,Perifericos,WhatsApp,3,349.90,MG
+2025-04-02,PED-0094,Teclado Mecanico,Perifericos,Loja Fisica,1,349.90,CE
+2025-12-10,PED-0294,Cadeira Ergonomica,Escritorio,WhatsApp,1,1499.00,PE
+2025-08-01,PED-0159,Hub USB-C,Acessorios,Site,4,189.90,PE
+2025-11-18,PED-0007,Notebook Pro 14,Informatica,Loja Fisica,4,3899.90,MG
+2025-06-29,PED-0077,Notebook Pro 14,Informatica,Marketplace,1,3899.90,SP
+2025-11-17,PED-0235,Teclado Mecanico,Perifericos,Loja Fisica,1,349.90,SP
+2025-08-21,PED-0277,SSD 1TB,Componentes,Loja Fisica,3,549.90,PR
+2025-10-28,PED-0134,Headset USB,Audio,Loja Fisica,1,249.90,PR
+2025-11-08,PED-0116,SSD 1TB,Componentes,Marketplace,2,549.90,RJ
+2025-01-29,PED-0173,Teclado Mecanico,Perifericos,Site,1,349.90,MG
+2025-01-24,PED-0061,Mouse Sem Fio,Perifericos,Marketplace,3,129.90,RS
+2025-08-19,PED-0322,SSD 1TB,Componentes,WhatsApp,1,549.90,MG
+2025-01-08,PED-0300,Mouse Sem Fio,Perifericos,Marketplace,2,129.90,MG
+2025-12-08,PED-0275,Teclado Mecanico,Perifericos,Site,2,349.90,RS
+2025-06-01,PED-0272,Cadeira Ergonomica,Escritorio,Marketplace,1,1499.00,RJ
+2025-04-05,PED-0273,Monitor 27 polegadas,Monitores,Marketplace,1,1899.00,RS
+2025-08-01,PED-0159,Webcam Full HD,Perifericos,Site,1,279.90,PE
+2025-02-07,PED-0337,Hub USB-C,Acessorios,WhatsApp,1,189.90,RS
+2025-06-11,PED-0038,Suporte para Notebook,Acessorios,Site,1,119.90,CE
+2025-05-17,PED-0274,Memoria RAM 16GB,Componentes,Loja Fisica,1,329.90,BA
+2025-05-02,PED-0135,Headset USB,Audio,WhatsApp,4,249.90,PE
+2025-09-29,PED-0018,Notebook Pro 14,Informatica,Site,3,3899.90,PE
+2025-03-06,PED-0078,Monitor 27 polegadas,Monitores,WhatsApp,2,1899.00,SP
+2025-03-30,PED-0258,Headset USB,Audio,WhatsApp,1,249.90,PE
+2025-09-05,PED-0239,Teclado Mecanico,Perifericos,WhatsApp,2,349.90,MG
+2025-06-11,PED-0038,Memoria RAM 16GB,Componentes,Site,4,329.90,CE
+2025-09-13,PED-0207,Teclado Mecanico,Perifericos,Site,1,349.90,MG
+2025-06-07,PED-0106,Mesa Digitalizadora,Perifericos,Loja Fisica,2,459.00,RS
+2025-06-28,PED-0201,Cadeira Ergonomica,Escritorio,Site,1,1499.00,PR
+2025-07-26,PED-0247,Notebook Pro 14,Informatica,Loja Fisica,2,3899.90,CE
+2025-11-14,PED-0132,Mesa Digitalizadora,Perifericos,Marketplace,2,459.00,RS
+2025-01-15,PED-0073,Cadeira Ergonomica,Escritorio,WhatsApp,3,1499.00,PE
+2025-10-28,PED-0134,Mesa Digitalizadora,Perifericos,Loja Fisica,1,459.00,PR
+2025-10-07,PED-0335,Monitor 27 polegadas,Monitores,Marketplace,3,1899.00,CE
+2025-03-30,PED-0258,Hub USB-C,Acessorios,WhatsApp,1,189.90,PE
+2025-12-10,PED-0009,SSD 1TB,Componentes,Loja Fisica,1,549.90,SP
+2025-10-23,PED-0054,Suporte para Notebook,Acessorios,Marketplace,1,119.90,BA
+2025-10-14,PED-0065,SSD 1TB,Componentes,Loja Fisica,1,549.90,RS
+2025-01-04,PED-0004,Headset USB,Audio,Marketplace,1,249.90,PR
+2025-08-28,PED-0015,SSD 1TB,Componentes,Loja Fisica,1,549.90,CE
+2025-06-13,PED-0228,Headset USB,Audio,Loja Fisica,2,249.90,SP
+2025-09-17,PED-0017,SSD 1TB,Componentes,Site,1,549.90,BA
+2025-01-08,PED-0125,Teclado Mecanico,Perifericos,Marketplace,2,349.90,PR
+2025-11-21,PED-0042,Mouse Sem Fio,Perifericos,Loja Fisica,3,129.90,RS
+2025-06-17,PED-0143,Mesa Digitalizadora,Perifericos,Marketplace,1,459.00,SP
+2025-05-03,PED-0301,SSD 1TB,Componentes,Loja Fisica,1,549.90,BA
+2025-09-11,PED-0112,Notebook Pro 14,Informatica,Loja Fisica,1,3899.90,PR
+2025-08-21,PED-0148,Memoria RAM 16GB,Componentes,Site,1,329.90,MG
+2025-06-06,PED-0100,Hub USB-C,Acessorios,Site,1,189.90,SP
+2025-11-03,PED-0188,Webcam Full HD,Perifericos,Site,1,279.90,PE
+2025-06-09,PED-0080,Monitor 27 polegadas,Monitores,WhatsApp,2,1899.00,PR
+2025-08-28,PED-0244,Mouse Sem Fio,Perifericos,WhatsApp,1,129.90,BA
+2025-04-30,PED-0003,Cadeira Ergonomica,Escritorio,Site,3,1499.00,MG
+2025-03-09,PED-0138,Cadeira Ergonomica,Escritorio,Site,1,1499.00,BA
+2025-11-03,PED-0290,Cadeira Ergonomica,Escritorio,Site,1,1499.00,MG
+2025-11-14,PED-0132,Monitor 27 polegadas,Monitores,Marketplace,1,1899.00,RS
+2025-08-15,PED-0059,Mouse Sem Fio,Perifericos,Marketplace,2,129.90,RS
+2025-02-20,PED-0028,Webcam Full HD,Perifericos,Site,1,279.90,PR
+2025-08-02,PED-0099,Headset USB,Audio,Marketplace,4,249.90,PR
+2025-03-29,PED-0255,Memoria RAM 16GB,Componentes,WhatsApp,1,329.90,RJ
+2025-08-15,PED-0059,Hub USB-C,Acessorios,Marketplace,2,189.90,RS
+2025-10-03,PED-0013,Webcam Full HD,Perifericos,Loja Fisica,1,279.90,PR
+2025-04-04,PED-0075,Webcam Full HD,Perifericos,Site,1,279.90,BA
+2025-03-22,PED-0102,Suporte para Notebook,Acessorios,Site,1,119.90,PR
+2025-01-21,PED-0046,Hub USB-C,Acessorios,Loja Fisica,2,189.90,MG
+2025-10-28,PED-0134,Suporte para Notebook,Acessorios,Loja Fisica,1,119.90,PR
+2025-05-31,PED-0157,Suporte para Notebook,Acessorios,WhatsApp,1,119.90,PR
+2025-12-17,PED-0192,Notebook Pro 14,Informatica,Site,4,3899.90,PR
+2025-06-18,PED-0051,Hub USB-C,Acessorios,Loja Fisica,2,189.90,SP
+2025-01-09,PED-0210,Hub USB-C,Acessorios,Loja Fisica,2,189.90,SP
+2025-11-18,PED-0007,Mouse Sem Fio,Perifericos,Loja Fisica,2,129.90,MG
+2025-07-19,PED-0320,Mouse Sem Fio,Perifericos,Loja Fisica,1,129.90,PR
+2025-12-02,PED-0158,Monitor 27 polegadas,Monitores,Marketplace,1,1899.00,PR
+2025-02-09,PED-0176,Cadeira Ergonomica,Escritorio,Loja Fisica,1,1499.00,PR
+2025-07-23,PED-0333,Hub USB-C,Acessorios,Loja Fisica,2,189.90,BA
+2025-08-21,PED-0145,Suporte para Notebook,Acessorios,Loja Fisica,2,119.90,PR
+2025-02-05,PED-0283,Cadeira Ergonomica,Escritorio,WhatsApp,2,1499.00,CE
+2025-02-13,PED-0020,Teclado Mecanico,Perifericos,WhatsApp,3,349.90,SP
+2025-10-10,PED-0315,Teclado Mecanico,Perifericos,WhatsApp,1,349.90,CE
+2025-06-03,PED-0253,Headset USB,Audio,Loja Fisica,1,249.90,RS
+2025-09-07,PED-0172,Cadeira Ergonomica,Escritorio,Loja Fisica,4,1499.00,CE
+2025-02-28,PED-0079,Memoria RAM 16GB,Componentes,Marketplace,1,329.90,BA
+2025-03-24,PED-0198,Notebook Pro 14,Informatica,Marketplace,1,3899.90,RJ
+2025-02-09,PED-0176,Suporte para Notebook,Acessorios,Loja Fisica,4,119.90,PR
+2025-08-19,PED-0186,SSD 1TB,Componentes,Site,2,549.90,PE
+2025-09-15,PED-0154,Hub USB-C,Acessorios,Marketplace,1,189.90,CE
+2025-10-13,PED-0259,Headset USB,Audio,Loja Fisica,2,249.90,MG
+2025-09-29,PED-0035,Teclado Mecanico,Perifericos,Marketplace,2,349.90,CE
+2025-01-31,PED-0024,Webcam Full HD,Perifericos,Marketplace,1,279.90,SP
+2025-02-13,PED-0020,Suporte para Notebook,Acessorios,WhatsApp,1,119.90,SP
+2025-11-23,PED-0229,Monitor 27 polegadas,Monitores,Marketplace,2,1899.00,PE
+2025-02-28,PED-0117,Headset USB,Audio,WhatsApp,3,249.90,SP
+2025-12-18,PED-0160,Mouse Sem Fio,Perifericos,WhatsApp,1,129.90,SP
+2025-05-24,PED-0318,Monitor 27 polegadas,Monitores,Site,2,1899.00,RJ
+2025-12-09,PED-0037,Teclado Mecanico,Perifericos,Loja Fisica,1,349.90,MG
+2025-07-26,PED-0247,Memoria RAM 16GB,Componentes,Loja Fisica,1,329.90,CE
+2025-11-16,PED-0195,Cadeira Ergonomica,Escritorio,Marketplace,1,1499.00,RS
+2025-09-08,PED-0089,Hub USB-C,Acessorios,Marketplace,1,189.90,RS
+2025-09-21,PED-0214,Hub USB-C,Acessorios,WhatsApp,1,189.90,RS
+2025-08-30,PED-0204,Notebook Pro 14,Informatica,Marketplace,1,3899.90,RS
+2025-10-15,PED-0225,Suporte para Notebook,Acessorios,Site,1,119.90,BA
+2025-06-13,PED-0303,Cadeira Ergonomica,Escritorio,Marketplace,2,1499.00,PE
+2025-06-01,PED-0272,Suporte para Notebook,Acessorios,Marketplace,2,119.90,RJ
+2025-05-01,PED-0147,SSD 1TB,Componentes,Loja Fisica,1,549.90,SP
+2025-10-04,PED-0139,Headset USB,Audio,Loja Fisica,3,249.90,BA
+2025-05-31,PED-0016,Notebook Pro 14,Informatica,WhatsApp,4,3899.90,RJ
+2025-03-03,PED-0036,Mouse Sem Fio,Perifericos,Marketplace,2,129.90,CE
+2025-06-20,PED-0251,Memoria RAM 16GB,Componentes,WhatsApp,3,329.90,RS
+2025-01-16,PED-0168,Mesa Digitalizadora,Perifericos,Site,1,459.00,MG
+2025-07-23,PED-0333,Mesa Digitalizadora,Perifericos,Loja Fisica,1,459.00,BA
+2025-03-19,PED-0098,Monitor 27 polegadas,Monitores,Marketplace,1,1899.00,BA
+2025-09-29,PED-0035,Mouse Sem Fio,Perifericos,Marketplace,2,129.90,CE
+2025-07-14,PED-0076,Mouse Sem Fio,Perifericos,Loja Fisica,1,129.90,PR
+2025-06-04,PED-0238,Headset USB,Audio,WhatsApp,1,249.90,MG
+2025-03-06,PED-0078,Headset USB,Audio,WhatsApp,2,249.90,SP
+2025-01-22,PED-0185,Mesa Digitalizadora,Perifericos,WhatsApp,4,459.00,MG
+2025-05-02,PED-0025,SSD 1TB,Componentes,Loja Fisica,1,549.90,RS
+2025-07-23,PED-0333,Suporte para Notebook,Acessorios,Loja Fisica,4,119.90,BA
+2025-08-02,PED-0099,Mesa Digitalizadora,Perifericos,Marketplace,3,459.00,PR
+2025-11-01,PED-0332,Monitor 27 polegadas,Monitores,Marketplace,1,1899.00,BA
+2025-05-31,PED-0016,Headset USB,Audio,WhatsApp,2,249.90,RJ
+2025-02-21,PED-0194,Cadeira Ergonomica,Escritorio,Site,2,1499.00,PE
+2025-05-03,PED-0301,Mesa Digitalizadora,Perifericos,Loja Fisica,2,459.00,BA
+2025-09-05,PED-0239,Memoria RAM 16GB,Componentes,WhatsApp,1,329.90,MG
+2025-09-11,PED-0112,Mesa Digitalizadora,Perifericos,Loja Fisica,1,459.00,PR
+2025-10-09,PED-0030,SSD 1TB,Componentes,Site,3,549.90,CE
+2025-03-13,PED-0252,Cadeira Ergonomica,Escritorio,Loja Fisica,4,1499.00,PE
+2025-02-07,PED-0337,Cadeira Ergonomica,Escritorio,WhatsApp,3,1499.00,RS
+2025-03-08,PED-0191,Hub USB-C,Acessorios,Site,2,189.90,BA
+2025-12-31,PED-0319,Memoria RAM 16GB,Componentes,WhatsApp,3,329.90,SP
+2025-08-30,PED-0118,Teclado Mecanico,Perifericos,Marketplace,3,349.90,RS
+2025-05-05,PED-0178,Headset USB,Audio,WhatsApp,2,249.90,PR
+2025-10-17,PED-0136,Memoria RAM 16GB,Componentes,Site,1,329.90,RS
+2025-08-21,PED-0277,Mesa Digitalizadora,Perifericos,Loja Fisica,3,459.00,PR
+2025-09-15,PED-0154,Headset USB,Audio,Marketplace,1,249.90,CE
+2025-06-20,PED-0211,Webcam Full HD,Perifericos,Marketplace,1,279.90,CE
+2025-09-17,PED-0017,Monitor 27 polegadas,Monitores,Site,1,1899.00,BA
+2025-06-13,PED-0303,Notebook Pro 14,Informatica,Marketplace,1,3899.90,PE
+2025-05-16,PED-0053,Hub USB-C,Acessorios,Site,1,189.90,SP
+2025-04-14,PED-0213,Webcam Full HD,Perifericos,Site,3,279.90,MG
+2025-11-07,PED-0021,Headset USB,Audio,WhatsApp,1,249.90,MG
+2025-01-31,PED-0308,Notebook Pro 14,Informatica,Site,1,3899.90,SP
+2025-11-07,PED-0021,Suporte para Notebook,Acessorios,WhatsApp,1,119.90,MG
+2025-08-28,PED-0244,Notebook Pro 14,Informatica,WhatsApp,3,3899.90,BA
+2025-12-17,PED-0212,Mouse Sem Fio,Perifericos,WhatsApp,1,129.90,RS
+2025-07-04,PED-0302,Suporte para Notebook,Acessorios,WhatsApp,1,119.90,RS
+2025-05-02,PED-0196,Mesa Digitalizadora,Perifericos,WhatsApp,1,459.00,BA
+2025-08-15,PED-0183,SSD 1TB,Componentes,Loja Fisica,1,549.90,BA
+2025-12-14,PED-0189,Hub USB-C,Acessorios,WhatsApp,2,189.90,BA
+2025-06-29,PED-0077,Suporte para Notebook,Acessorios,Marketplace,1,119.90,SP
+2025-11-27,PED-0284,Mesa Digitalizadora,Perifericos,WhatsApp,1,459.00,PE
+2025-04-29,PED-0321,Suporte para Notebook,Acessorios,Site,1,119.90,PE
+2025-10-03,PED-0013,Cadeira Ergonomica,Escritorio,Loja Fisica,4,1499.00,PR
+2025-05-11,PED-0282,Notebook Pro 14,Informatica,Site,1,3899.90,MG
+2025-06-20,PED-0211,SSD 1TB,Componentes,Marketplace,3,549.90,CE
+2025-09-03,PED-0231,Webcam Full HD,Perifericos,WhatsApp,2,279.90,PR
+2025-05-04,PED-0295,Notebook Pro 14,Informatica,Marketplace,2,3899.90,BA
+2025-12-27,PED-0276,Headset USB,Audio,Loja Fisica,1,249.90,SP
+2025-07-16,PED-0062,Teclado Mecanico,Perifericos,WhatsApp,2,349.90,PR
+2025-10-09,PED-0091,Headset USB,Audio,Loja Fisica,1,249.90,PE
+2025-08-30,PED-0257,Monitor 27 polegadas,Monitores,Site,4,1899.00,RJ
+2025-06-27,PED-0234,Monitor 27 polegadas,Monitores,Loja Fisica,4,1899.00,SP
+2025-12-22,PED-0069,Cadeira Ergonomica,Escritorio,Marketplace,1,1499.00,MG
+2025-04-20,PED-0039,Monitor 27 polegadas,Monitores,Loja Fisica,1,1899.00,RJ
+2025-11-24,PED-9002,Monitor 27 polegadas,,Site,1,1899.00,CE
+2025-05-20,PED-0171,Cadeira Ergonomica,Escritorio,Marketplace,1,1499.00,SP
+2025-05-21,PED-0293,SSD 1TB,Componentes,Site,3,549.90,RJ
+2025-12-02,PED-0181,Mesa Digitalizadora,Perifericos,Site,2,459.00,RJ
+2025-06-06,PED-0050,Hub USB-C,Acessorios,Marketplace,1,189.90,MG
+2025-06-13,PED-0228,Hub USB-C,Acessorios,Loja Fisica,3,189.90,SP
+2025-11-24,PED-0001,Headset USB,Audio,Site,1,249.90,CE
+2025-06-02,PED-0120,Mesa Digitalizadora,Perifericos,WhatsApp,2,459.00,RJ
+2025-03-09,PED-0281,Mesa Digitalizadora,Perifericos,WhatsApp,1,459.00,RS
+2025-04-20,PED-0039,Mouse Sem Fio,Perifericos,Loja Fisica,1,129.90,RJ
+2025-10-09,PED-0030,Mouse Sem Fio,Perifericos,Site,1,129.90,CE
+2025-01-04,PED-0004,Teclado Mecanico,Perifericos,Marketplace,2,349.90,PR
+2025-10-06,PED-0121,Suporte para Notebook,Acessorios,WhatsApp,1,119.90,RS
+2025-03-19,PED-0309,Webcam Full HD,Perifericos,Site,2,279.90,MG
+2025-10-07,PED-9004,Notebook Pro 14,Informatica,Site,0,3899.90,PR
+2025-01-11,PED-0023,Mouse Sem Fio,Perifericos,Marketplace,2,129.90,MG
+2025-11-01,PED-0332,Memoria RAM 16GB,Componentes,Marketplace,1,329.90,BA
+2025-10-18,PED-0012,Cadeira Ergonomica,Escritorio,Loja Fisica,1,1499.00,MG
+2025-04-10,PED-0197,Cadeira Ergonomica,Escritorio,Loja Fisica,1,1499.00,RS
+2025-02-09,PED-0179,Webcam Full HD,Perifericos,Site,3,279.90,MG
+2025-04-04,PED-0087,Webcam Full HD,Perifericos,WhatsApp,2,279.90,MG
+2025-03-04,PED-0206,Memoria RAM 16GB,Componentes,Site,1,329.90,MG
+2025-05-28,PED-0128,Mouse Sem Fio,Perifericos,Marketplace,2,129.90,SP
+2025-05-01,PED-0147,Suporte para Notebook,Acessorios,Loja Fisica,4,119.90,SP
+2025-05-16,PED-0032,Suporte para Notebook,Acessorios,WhatsApp,2,119.90,BA
+2025-05-28,PED-0248,Headset USB,Audio,Site,2,249.90,PR
+2025-06-17,PED-0143,Headset USB,Audio,Marketplace,1,249.90,SP
+2025-05-19,PED-0263,Memoria RAM 16GB,Componentes,Loja Fisica,2,329.90,RJ
+2025-07-01,PED-0339,Cadeira Ergonomica,Escritorio,Marketplace,2,1499.00,CE
+2025-05-04,PED-0289,Memoria RAM 16GB,Componentes,Marketplace,1,329.90,SP
+2025-06-04,PED-0081,SSD 1TB,Componentes,Site,2,549.90,CE
+2025-05-28,PED-0248,Mesa Digitalizadora,Perifericos,Site,3,459.00,PR
+2025-05-17,PED-0274,Suporte para Notebook,Acessorios,Loja Fisica,1,119.90,BA
+2025-05-16,PED-0053,Webcam Full HD,Perifericos,Site,4,279.90,SP
+2025-07-24,PED-0216,Mesa Digitalizadora,Perifericos,WhatsApp,1,459.00,PR
+2025-12-31,PED-0319,Teclado Mecanico,Perifericos,WhatsApp,1,349.90,SP
+2025-06-20,PED-0331,Webcam Full HD,Perifericos,WhatsApp,3,279.90,PE
+2025-05-16,PED-0104,SSD 1TB,Componentes,Marketplace,1,549.90,PR
+2025-09-03,PED-0260,Memoria RAM 16GB,Componentes,Loja Fisica,1,329.90,BA
+2025-04-06,PED-0208,SSD 1TB,Componentes,Site,1,549.90,PE
+2025-08-28,PED-0015,Suporte para Notebook,Acessorios,Loja Fisica,2,119.90,CE
+2025-01-07,PED-0311,Notebook Pro 14,Informatica,Site,2,3899.90,BA
+2025-10-09,PED-0091,Mesa Digitalizadora,Perifericos,Loja Fisica,1,459.00,PE
+2025-08-15,PED-0183,Webcam Full HD,Perifericos,Loja Fisica,1,279.90,BA
+2025-12-09,PED-0175,Suporte para Notebook,Acessorios,Loja Fisica,1,119.90,SP
+2025-06-08,PED-0166,Teclado Mecanico,Perifericos,Loja Fisica,3,349.90,PE
+2025-10-06,PED-0121,Monitor 27 polegadas,Monitores,WhatsApp,2,1899.00,RS
+2025-06-03,PED-0314,Cadeira Ergonomica,Escritorio,Site,1,1499.00,CE
+2025-05-29,PED-0242,Teclado Mecanico,Perifericos,WhatsApp,3,349.90,PR
+2025-12-27,PED-0276,Webcam Full HD,Perifericos,Loja Fisica,4,279.90,SP
+2025-07-09,PED-0297,Headset USB,Audio,Site,1,249.90,MG
+2025-05-01,PED-0202,Monitor 27 polegadas,Monitores,WhatsApp,1,1899.00,SP
+2025-06-13,PED-0228,SSD 1TB,Componentes,Loja Fisica,3,549.90,SP
+2025-11-24,PED-0001,Monitor 27 polegadas,Monitores,Site,1,1899.00,CE
+2025-03-31,PED-0151,Notebook Pro 14,Informatica,Site,1,3899.90,CE
+2025-11-28,PED-0082,Mesa Digitalizadora,Perifericos,Loja Fisica,1,459.00,CE
+2025-05-07,PED-0330,Mouse Sem Fio,Perifericos,WhatsApp,1,129.90,MG
+2025-06-02,PED-0120,SSD 1TB,Componentes,WhatsApp,1,549.90,RJ
+2025-11-21,PED-0324,Webcam Full HD,Perifericos,Marketplace,1,279.90,PR
+2025-03-10,PED-0270,Mouse Sem Fio,Perifericos,WhatsApp,1,129.90,BA
+2025-10-17,PED-0182,Mesa Digitalizadora,Perifericos,Loja Fisica,1,459.00,PE
+2025-02-21,PED-0265,Mesa Digitalizadora,Perifericos,Marketplace,4,459.00,CE
+2025-02-21,PED-0194,Memoria RAM 16GB,Componentes,Site,1,329.90,PE
+2025-05-02,PED-0135,Notebook Pro 14,Informatica,WhatsApp,1,3899.90,PE
+2025-12-25,PED-0107,SSD 1TB,Componentes,WhatsApp,1,549.90,BA
+2025-11-07,PED-0021,Monitor 27 polegadas,Monitores,WhatsApp,2,1899.00,MG
+2025-03-21,PED-0288,Mouse Sem Fio,Perifericos,Loja Fisica,2,129.90,MG
+2025-07-04,PED-0230,Teclado Mecanico,Perifericos,Loja Fisica,1,349.90,RS
+2025-09-13,PED-0207,Cadeira Ergonomica,Escritorio,Site,2,1499.00,MG
+2025-11-15,PED-0165,Teclado Mecanico,Perifericos,Site,1,349.90,BA
+2025-09-17,PED-0017,Memoria RAM 16GB,Componentes,Site,2,329.90,BA
+2025-02-05,PED-0119,Headset USB,Audio,Loja Fisica,1,249.90,PR
+2025-09-03,PED-0096,Notebook Pro 14,Informatica,WhatsApp,1,3899.90,PE
+2025-10-22,PED-0109,Mesa Digitalizadora,Perifericos,Site,1,459.00,BA
+2025-04-19,PED-0163,Mouse Sem Fio,Perifericos,Marketplace,1,129.90,RS
+2025-03-16,PED-0304,Cadeira Ergonomica,Escritorio,Site,1,1499.00,BA
+2025-10-12,PED-0164,Monitor 27 polegadas,Monitores,Loja Fisica,3,1899.00,SP
+2025-09-16,PED-0279,Webcam Full HD,Perifericos,Marketplace,3,279.90,RJ
+2025-09-29,PED-0035,Suporte para Notebook,Acessorios,Marketplace,1,119.90,CE
+2025-03-27,PED-0129,Webcam Full HD,Perifericos,Loja Fisica,2,279.90,CE
+2025-07-23,PED-0313,Mesa Digitalizadora,Perifericos,Site,1,459.00,PE
+2025-05-05,PED-0178,Mouse Sem Fio,Perifericos,WhatsApp,2,129.90,PR
+2025-11-11,PED-0220,Mouse Sem Fio,Perifericos,WhatsApp,3,129.90,BA
+2025-04-10,PED-0197,Headset USB,Audio,Loja Fisica,1,249.90,RS
+2025-01-24,PED-0061,Mesa Digitalizadora,Perifericos,Marketplace,2,459.00,RS
+2025-09-23,PED-0217,Mouse Sem Fio,Perifericos,Loja Fisica,3,129.90,SP
+2025-06-09,PED-0080,Memoria RAM 16GB,Componentes,WhatsApp,1,329.90,PR
+2025-08-19,PED-0186,Mouse Sem Fio,Perifericos,Site,1,129.90,PE
+2025-03-03,PED-0036,Cadeira Ergonomica,Escritorio,Marketplace,1,1499.00,CE
+2025-01-24,PED-0061,Cadeira Ergonomica,Escritorio,Marketplace,2,1499.00,RS
+2025-05-16,PED-0032,SSD 1TB,Componentes,WhatsApp,1,549.90,BA
+2025-07-21,PED-0286,Notebook Pro 14,Informatica,Marketplace,4,3899.90,MG
+2025-05-03,PED-0264,Monitor 27 polegadas,Monitores,Marketplace,1,1899.00,CE
+2025-12-21,PED-0317,Mouse Sem Fio,Perifericos,WhatsApp,2,129.90,BA
+2025-01-29,PED-0173,Monitor 27 polegadas,Monitores,Site,2,1899.00,MG
+2025-08-20,PED-0227,Hub USB-C,Acessorios,Marketplace,4,189.90,RS
+2025-04-29,PED-0321,Cadeira Ergonomica,Escritorio,Site,2,1499.00,PE
+2025-03-30,PED-0258,Webcam Full HD,Perifericos,WhatsApp,2,279.90,PE
+2025-01-25,PED-0014,Hub USB-C,Acessorios,Site,1,189.90,RJ
+2025-06-04,PED-0238,Mesa Digitalizadora,Perifericos,WhatsApp,1,459.00,MG
+2025-07-24,PED-0216,Teclado Mecanico,Perifericos,WhatsApp,2,349.90,PR
+2025-09-24,PED-0067,Mouse Sem Fio,Perifericos,WhatsApp,1,129.90,MG
+2025-01-21,PED-0046,Mouse Sem Fio,Perifericos,Loja Fisica,3,129.90,MG
+2025-03-14,PED-0141,Webcam Full HD,Perifericos,Marketplace,1,279.90,PR
+2025-11-02,PED-0150,Teclado Mecanico,Perifericos,Site,1,349.90,BA
+2025-03-09,PED-0281,SSD 1TB,Componentes,WhatsApp,1,549.90,RS
+2025-01-26,PED-0170,Cadeira Ergonomica,Escritorio,Site,1,1499.00,BA
+2025-12-15,PED-0278,Mouse Sem Fio,Perifericos,Site,3,129.90,RS
+2025-05-01,PED-0147,Webcam Full HD,Perifericos,Loja Fisica,1,279.90,SP
+2025-10-01,PED-0267,Notebook Pro 14,Informatica,Site,1,3899.90,RJ
+2025-04-04,PED-0029,Mouse Sem Fio,Perifericos,Loja Fisica,1,129.90,RS
+2025-08-21,PED-0277,Suporte para Notebook,Acessorios,Loja Fisica,2,119.90,PR
+2025-02-07,PED-0337,SSD 1TB,Componentes,WhatsApp,3,549.90,RS
+2025-07-19,PED-0071,Notebook Pro 14,Informatica,Site,1,3899.90,PR
+2025-08-24,PED-0083,Suporte para Notebook,Acessorios,Marketplace,1,119.90,PR
+2025-07-07,PED-0224,Monitor 27 polegadas,Monitores,WhatsApp,1,1899.00,PE
+2025-07-08,PED-0184,Mouse Sem Fio,Perifericos,Loja Fisica,1,129.90,SP
+2025-06-20,PED-0111,Webcam Full HD,Perifericos,Loja Fisica,1,279.90,SP
+2025-01-08,PED-0125,Mouse Sem Fio,Perifericos,Marketplace,1,129.90,PR
+2025-03-19,PED-0309,Mesa Digitalizadora,Perifericos,Site,2,459.00,MG
+2025-11-23,PED-0229,Suporte para Notebook,Acessorios,Marketplace,1,119.90,PE
+2025-01-23,PED-0043,Hub USB-C,Acessorios,Site,4,189.90,PE
+2025-01-31,PED-0308,Suporte para Notebook,Acessorios,Site,2,119.90,SP
+2025-03-09,PED-0138,Suporte para Notebook,Acessorios,Site,1,119.90,BA
+2025-04-29,PED-0321,Memoria RAM 16GB,Componentes,Site,4,329.90,PE
+2025-03-09,PED-0281,Notebook Pro 14,Informatica,WhatsApp,2,3899.90,RS
+2025-07-19,PED-0320,SSD 1TB,Componentes,Loja Fisica,1,549.90,PR
+2025-04-03,PED-0131,Memoria RAM 16GB,Componentes,Marketplace,3,329.90,RJ
+2025-10-10,PED-0315,Mouse Sem Fio,Perifericos,WhatsApp,2,129.90,CE
+2025-11-27,PED-0222,Notebook Pro 14,Informatica,Loja Fisica,2,3899.90,PE
+2025-11-08,PED-0116,Notebook Pro 14,Informatica,Marketplace,1,3899.90,RJ
+2025-07-04,PED-0230,Memoria RAM 16GB,Componentes,Loja Fisica,1,329.90,RS
+2025-06-07,PED-0019,Memoria RAM 16GB,Componentes,Marketplace,3,329.90,CE
+2025-03-08,PED-0191,Cadeira Ergonomica,Escritorio,Site,3,1499.00,BA
+2025-03-14,PED-0141,Mouse Sem Fio,Perifericos,Marketplace,1,129.90,PR
+2025-09-05,PED-0310,SSD 1TB,Componentes,WhatsApp,2,549.90,CE
+2025-12-06,PED-0056,Cadeira Ergonomica,Escritorio,Site,2,1499.00,BA
+2025-01-08,PED-0300,Mesa Digitalizadora,Perifericos,Marketplace,2,459.00,MG
+2025-08-30,PED-0257,Webcam Full HD,Perifericos,Site,1,279.90,RJ
+2025-03-28,PED-0307,SSD 1TB,Componentes,Marketplace,4,549.90,RS
+2025-02-14,PED-0085,Mesa Digitalizadora,Perifericos,Loja Fisica,2,459.00,RS
+2025-05-21,PED-0293,Cadeira Ergonomica,Escritorio,Site,4,1499.00,RJ
+2025-05-04,PED-0295,Teclado Mecanico,Perifericos,Marketplace,2,349.90,BA
+2025-02-05,PED-0119,SSD 1TB,Componentes,Loja Fisica,3,549.90,PR
+2025-06-17,PED-0143,Cadeira Ergonomica,Escritorio,Marketplace,1,1499.00,SP
+2025-08-28,PED-0015,Mouse Sem Fio,Perifericos,Loja Fisica,2,129.90,CE
+2025-08-04,PED-0153,Mesa Digitalizadora,Perifericos,Site,1,459.00,SP
+2025-02-28,PED-0117,Mesa Digitalizadora,Perifericos,WhatsApp,1,459.00,SP
+2025-01-25,PED-0014,Cadeira Ergonomica,Escritorio,Site,2,1499.00,RJ
+2025-10-06,PED-0040,Mouse Sem Fio,Perifericos,Loja Fisica,1,129.90,CE
+2025-11-30,PED-0084,Memoria RAM 16GB,Componentes,Loja Fisica,3,329.90,RS
+2025-03-29,PED-0255,Monitor 27 polegadas,Monitores,WhatsApp,3,1899.00,RJ
+2025-09-03,PED-0231,Teclado Mecanico,Perifericos,WhatsApp,1,349.90,PR
+2025-03-10,PED-0296,Webcam Full HD,Perifericos,WhatsApp,3,279.90,MG
+2025-06-10,PED-0256,Suporte para Notebook,Acessorios,WhatsApp,1,119.90,RJ
+2025-09-21,PED-0214,Notebook Pro 14,Informatica,WhatsApp,1,3899.90,RS
+2025-08-30,PED-0257,SSD 1TB,Componentes,Site,1,549.90,RJ
+2025-08-15,PED-0262,Monitor 27 polegadas,Monitores,Loja Fisica,3,1899.00,RS
+2025-02-22,PED-0199,Teclado Mecanico,Perifericos,Site,1,349.90,BA
+2025-12-05,PED-0101,Teclado Mecanico,Perifericos,Site,2,349.90,RJ
+2025-06-21,PED-0068,Teclado Mecanico,Perifericos,Loja Fisica,1,349.90,SP
+2025-06-03,PED-0253,Mesa Digitalizadora,Perifericos,Loja Fisica,2,459.00,RS
+2025-02-22,PED-0005,Webcam Full HD,Perifericos,Site,3,279.90,PR
+2025-09-26,PED-0187,Headset USB,Audio,Marketplace,1,249.90,PE
+2025-10-20,PED-0026,Monitor 27 polegadas,Monitores,WhatsApp,2,1899.00,MG
+2025-11-17,PED-0235,Hub USB-C,Acessorios,Loja Fisica,3,189.90,SP
+2025-10-12,PED-0164,Memoria RAM 16GB,Componentes,Loja Fisica,3,329.90,SP
+2025-10-10,PED-0315,Notebook Pro 14,Informatica,WhatsApp,1,3899.90,CE
+2025-07-19,PED-0071,Webcam Full HD,Perifericos,Site,1,279.90,PR
+2025-10-17,PED-0149,Suporte para Notebook,Acessorios,Marketplace,2,119.90,SP
+2025-01-07,PED-0311,SSD 1TB,Componentes,Site,3,549.90,BA
+2025-11-30,PED-0084,Cadeira Ergonomica,Escritorio,Loja Fisica,1,1499.00,RS
+2025-08-26,PED-0287,Monitor 27 polegadas,Monitores,WhatsApp,1,1899.00,PR
+2025-09-08,PED-0089,Suporte para Notebook,Acessorios,Marketplace,2,119.90,RS
+2025-12-15,PED-0278,Webcam Full HD,Perifericos,Site,1,279.90,RS
+2025-08-02,PED-0254,Headset USB,Audio,Loja Fisica,2,249.90,CE
+2025-12-05,PED-0323,Monitor 27 polegadas,Monitores,WhatsApp,1,1899.00,SP
+2025-01-16,PED-0221,Teclado Mecanico,Perifericos,Marketplace,1,349.90,RS
+2025-03-24,PED-0198,Hub USB-C,Acessorios,Marketplace,1,189.90,RJ
+2025-03-10,PED-0296,Monitor 27 polegadas,Monitores,WhatsApp,2,1899.00,MG
+2025-10-05,PED-0070,Monitor 27 polegadas,Monitores,WhatsApp,3,1899.00,PR
+2025-08-07,PED-0219,Mesa Digitalizadora,Perifericos,Marketplace,2,459.00,RS
+2025-03-19,PED-0309,Notebook Pro 14,Informatica,Site,2,3899.90,MG
+2025-02-21,PED-0265,Cadeira Ergonomica,Escritorio,Marketplace,1,1499.00,CE
+2025-08-03,PED-0072,Headset USB,Audio,Marketplace,1,249.90,RS
+2025-02-21,PED-0194,Teclado Mecanico,Perifericos,Site,1,349.90,PE
+2025-10-29,PED-0093,Headset USB,Audio,Loja Fisica,1,249.90,SP
+2025-06-05,PED-0058,Memoria RAM 16GB,Componentes,Loja Fisica,2,329.90,MG
+2025-12-02,PED-0158,Cadeira Ergonomica,Escritorio,Marketplace,1,1499.00,PR
+2025-07-23,PED-0126,SSD 1TB,Componentes,Site,2,549.90,PE
+2025-06-05,PED-0058,Suporte para Notebook,Acessorios,Loja Fisica,1,119.90,MG
+2025-01-07,PED-0311,Headset USB,Audio,Site,3,249.90,BA
+2025-09-24,PED-0067,Mesa Digitalizadora,Perifericos,WhatsApp,2,459.00,MG
+2025-02-24,PED-0041,Monitor 27 polegadas,Monitores,Marketplace,1,1899.00,BA
+2025-10-19,PED-0305,Hub USB-C,Acessorios,Marketplace,1,189.90,RS
+2025-09-03,PED-0155,Mouse Sem Fio,Perifericos,WhatsApp,1,129.90,PR
+2025-05-22,PED-0088,Monitor 27 polegadas,Monitores,Site,2,1899.00,MG
+2025-04-02,PED-0312,Hub USB-C,Acessorios,Site,1,189.90,SP
+2025-07-08,PED-0184,Memoria RAM 16GB,Componentes,Loja Fisica,1,329.90,SP
+2025-07-29,PED-0336,Monitor 27 polegadas,Monitores,WhatsApp,2,1899.00,RJ
+2025-04-02,PED-0312,Monitor 27 polegadas,Monitores,Site,1,1899.00,SP
+2025-03-16,PED-0304,Memoria RAM 16GB,Componentes,Site,1,329.90,BA
+2025-04-21,PED-0205,Headset USB,Audio,Marketplace,1,249.90,PR
+2025-05-01,PED-0202,Notebook Pro 14,Informatica,WhatsApp,1,3899.90,SP
+2025-01-31,PED-0308,Cadeira Ergonomica,Escritorio,Site,1,1499.00,SP
+2025-12-07,PED-0162,Headset USB,Audio,WhatsApp,2,249.90,CE
+2025-05-17,PED-0274,Notebook Pro 14,Informatica,Loja Fisica,1,3899.90,BA
+2025-03-29,PED-0255,Notebook Pro 14,Informatica,WhatsApp,1,3899.90,RJ
+2025-04-08,PED-0137,Notebook Pro 14,Informatica,Loja Fisica,2,3899.90,RJ
+2025-04-09,PED-0057,Suporte para Notebook,Acessorios,WhatsApp,2,119.90,PR
+2025-06-04,PED-0238,Cadeira Ergonomica,Escritorio,WhatsApp,1,1499.00,MG
+2025-03-22,PED-0102,Memoria RAM 16GB,Componentes,Site,1,329.90,PR
+2025-05-20,PED-0171,Mouse Sem Fio,Perifericos,Marketplace,2,129.90,SP
+2025-03-18,PED-0190,Webcam Full HD,Perifericos,Loja Fisica,2,279.90,SP
+2025-03-06,PED-0095,Memoria RAM 16GB,Componentes,WhatsApp,1,329.90,SP
+2025-12-15,PED-0278,Suporte para Notebook,Acessorios,Site,3,119.90,RS
+2025-06-18,PED-0051,Webcam Full HD,Perifericos,Loja Fisica,1,279.90,SP
+2025-11-06,PED-0298,Memoria RAM 16GB,Componentes,Site,2,329.90,SP
+2025-09-06,PED-0031,Notebook Pro 14,Informatica,WhatsApp,1,3899.90,MG
+2025-08-21,PED-0145,Cadeira Ergonomica,Escritorio,Loja Fisica,2,1499.00,PR
+2025-10-22,PED-0109,Notebook Pro 14,Informatica,Site,1,3899.90,BA
+2025-07-26,PED-0113,Monitor 27 polegadas,Monitores,Site,2,1899.00,RS
+2025-04-30,PED-0003,Hub USB-C,Acessorios,Site,1,189.90,MG
+2025-11-29,PED-0203,Notebook Pro 14,Informatica,Loja Fisica,1,3899.90,RJ
+2025-07-07,PED-0224,Mouse Sem Fio,Perifericos,WhatsApp,1,129.90,PE
+2025-10-19,PED-0305,Webcam Full HD,Perifericos,Marketplace,4,279.90,RS
+2025-06-27,PED-0234,Hub USB-C,Acessorios,Loja Fisica,1,189.90,SP
+2025-05-28,PED-0103,Hub USB-C,Acessorios,Loja Fisica,1,189.90,RS
+2025-10-17,PED-0316,Monitor 27 polegadas,Monitores,Site,3,1899.00,CE
+2025-01-25,PED-0014,Teclado Mecanico,Perifericos,Site,2,349.90,RJ
+2025-09-13,PED-0207,Headset USB,Audio,Site,1,249.90,MG
+2025-12-22,PED-0226,Teclado Mecanico,Perifericos,WhatsApp,3,349.90,MG
+2025-04-02,PED-0094,Headset USB,Audio,Loja Fisica,1,249.90,CE
+2025-04-02,PED-0094,SSD 1TB,Componentes,Loja Fisica,1,549.90,CE
+2025-12-05,PED-0323,Mouse Sem Fio,Perifericos,WhatsApp,2,129.90,SP
+2025-12-17,PED-0212,Teclado Mecanico,Perifericos,WhatsApp,2,349.90,RS
+2025-07-30,PED-0122,Cadeira Ergonomica,Escritorio,Site,2,1499.00,PE
+2025-06-26,PED-0240,SSD 1TB,Componentes,WhatsApp,1,549.90,RJ
+2025-07-09,PED-0223,Memoria RAM 16GB,Componentes,Loja Fisica,1,329.90,RS
+2025-11-03,PED-0290,Notebook Pro 14,Informatica,Site,1,3899.90,MG
+2025-03-03,PED-0174,Teclado Mecanico,Perifericos,Site,2,349.90,RS
+2025-06-09,PED-0080,Mouse Sem Fio,Perifericos,WhatsApp,2,129.90,PR
+2025-11-27,PED-0284,Cadeira Ergonomica,Escritorio,WhatsApp,2,1499.00,PE
+2025-09-08,PED-0089,Mesa Digitalizadora,Perifericos,Marketplace,1,459.00,RS
+2025-09-11,PED-0268,Notebook Pro 14,Informatica,Marketplace,1,3899.90,BA
+2025-05-28,PED-0128,Hub USB-C,Acessorios,Marketplace,1,189.90,SP
+2025-11-28,PED-0082,Mouse Sem Fio,Perifericos,Loja Fisica,1,129.90,CE
+2025-09-24,PED-0055,Mouse Sem Fio,Perifericos,Marketplace,3,129.90,PE
+2025-01-19,PED-0338,Monitor 27 polegadas,Monitores,Loja Fisica,2,1899.00,SP
+2025-10-18,PED-0012,Mesa Digitalizadora,Perifericos,Loja Fisica,1,459.00,MG
+2025-04-09,PED-0057,Teclado Mecanico,Perifericos,WhatsApp,1,349.90,PR
+2025-02-13,PED-0020,Mesa Digitalizadora,Perifericos,WhatsApp,1,459.00,SP
+2025-02-03,PED-0156,Hub USB-C,Acessorios,Marketplace,2,189.90,BA
+2025-04-08,PED-0033,Memoria RAM 16GB,Componentes,Loja Fisica,2,329.90,MG
+2025-10-17,PED-0167,Suporte para Notebook,Acessorios,WhatsApp,2,119.90,SP
+2025-11-17,PED-0235,Memoria RAM 16GB,Componentes,Loja Fisica,2,329.90,SP
+2025-11-23,PED-0229,Mouse Sem Fio,Perifericos,Marketplace,1,129.90,PE
+2025-01-13,PED-0048,Hub USB-C,Acessorios,Marketplace,1,189.90,PE
+2025-05-28,PED-0248,SSD 1TB,Componentes,Site,2,549.90,PR
+2025-07-01,PED-0339,Suporte para Notebook,Acessorios,Marketplace,1,119.90,CE
+2025-02-21,PED-0194,Memoria RAM 16GB,Componentes,Site,1,329.90,PE
+2025-06-01,PED-0272,Hub USB-C,Acessorios,Marketplace,1,189.90,RJ
+2025-10-22,PED-0109,Teclado Mecanico,Perifericos,Site,1,349.90,BA
+2025-11-25,PED-0237,Memoria RAM 16GB,Componentes,Loja Fisica,2,329.90,MG
+2025-03-16,PED-0180,Memoria RAM 16GB,Componentes,Loja Fisica,1,329.90,MG
+2025-12-07,PED-0162,Memoria RAM 16GB,Componentes,WhatsApp,1,329.90,CE
+2025-08-15,PED-0183,Notebook Pro 14,Informatica,Loja Fisica,1,3899.90,BA
+2025-01-15,PED-0073,Hub USB-C,Acessorios,WhatsApp,3,189.90,PE
+2025-04-09,PED-0057,Memoria RAM 16GB,Componentes,WhatsApp,3,329.90,PR
+2025-11-21,PED-0042,Notebook Pro 14,Informatica,Loja Fisica,2,3899.90,RS
+2025-09-23,PED-0217,Suporte para Notebook,Acessorios,Loja Fisica,1,119.90,SP
+2025-09-15,PED-0154,SSD 1TB,Componentes,Marketplace,4,549.90,CE
+2025-05-16,PED-0053,Cadeira Ergonomica,Escritorio,Site,1,1499.00,SP
+2025-06-03,PED-0253,Memoria RAM 16GB,Componentes,Loja Fisica,3,329.90,RS
+2025-10-18,PED-0012,Suporte para Notebook,Acessorios,Loja Fisica,2,119.90,MG
+2025-12-02,PED-0181,Suporte para Notebook,Acessorios,Site,1,119.90,RJ
+2025-07-14,PED-0076,Mesa Digitalizadora,Perifericos,Loja Fisica,1,459.00,PR
+2025-10-13,PED-0259,Monitor 27 polegadas,Monitores,Loja Fisica,1,1899.00,MG
+2025-03-16,PED-0304,Suporte para Notebook,Acessorios,Site,1,119.90,BA
+2025-06-26,PED-0240,Suporte para Notebook,Acessorios,WhatsApp,1,119.90,RJ
