@@ -1,5 +1,8 @@
 # Automação e Análise de Vendas
 
+[![CI](https://github.com/EliasCamposDEV/automacao-vendas/actions/workflows/ci.yml/badge.svg)](https://github.com/EliasCamposDEV/automacao-vendas/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/github/license/EliasCamposDEV/automacao-vendas)](LICENSE)
+
 Toolkit em Python 3.11+ para organizar arquivos e analisar vendas, gerando relatório Excel com gráficos.
 
 ## Instalar
